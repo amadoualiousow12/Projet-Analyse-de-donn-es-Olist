@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projet d'Analyse de Données Olist
 
 Ce projet est une version structurée et modulaire de votre analyse de données Olist, prête à être utilisée dans **VS Code**.
@@ -49,3 +50,7 @@ python src/client.py
 ## 🛠️ Utilisation dans VS Code
 - **Interpréteur Python** : Appuyez sur `Ctrl+Shift+P`, tapez "Python: Select Interpreter" et choisissez celui de `venv311` ou `venv313`.
 - **Notebook** : Vous pouvez également ouvrir `notebook_original.ipynb` et choisir l'un des environnements comme noyau (kernel).
+=======
+# Projet-Analyse-de-donn-es-Olist
+Ce projet consiste en une analyse exploratoire et statistique complète des données de Olist, la plus grande plateforme de vente en ligne au Brésil. À travers l'étude de plus de 100 000 commandes, l'objectif est d'extraire des indicateurs de performance (KPIs) et de comprendre le comportement des consommateurs.
+>>>>>>> 7374fe569ac036374c55001bd425483d86abed5c
